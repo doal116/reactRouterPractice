@@ -1,0 +1,25 @@
+{
+  "careers": [
+    {
+      "title": "software engeneering",
+      "id": 1,
+      "salary": 1000,
+      "location": "uk",
+      "description": "developper"
+    },
+    {
+      "title": "Graphic designer",
+      "id": 2,
+      "salary": 2000,
+      "location": "france",
+      "description": "posters"
+    },
+    {
+      "title": "doctor",
+      "id": 3,
+      "salary": 10000,
+      "location": "sweden",
+      "description": "surgent"
+    }
+  ]
+}
